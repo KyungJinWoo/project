@@ -13,9 +13,8 @@
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
-  ![유동인구 카운트 영상]<iframe title="미니 포트폴리오1" width="640" height="360" src="https://play-tv.kakao.com/embed/player/cliplink/rvpp4ktwvxr7plriqmrbwnxf5@my?service=player_share" allowfullscreen frameborder="0" scrolling="no" allow="autoplay; fullscreen; encrypted-media"></iframe>
+  [![유동인구 카운트 영상](https://github.com/KyungJinWoo/project/blob/main/%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%EC%8D%B8%EB%84%A4%EC%9D%BC.png)](https://play-tv.kakao.com/embed/player/cliplink/rvpp4ktwvxr7plriqmrbwnxf5@my?service=player_share)
 
----
 
 ### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
 - **프로젝트 설명**: 무인 감시 시스템을 위한 도둑 감지 기능. YOLO 모델을 통해 특정 위치에서의 불법 침입자를 실시간으로 탐지.
