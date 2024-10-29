@@ -12,7 +12,7 @@
 - **관련 주피터 노트북**
   - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1V8hIDd-gumynF9oLR9PMOUQ6HUlKk4HC#scrollTo=mfOAv-IH57t-)
 - **시연 영상** 
-  [![유동인구 카운트 영상](https://github.com/KyungJinWoo/project/blob/main/%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%EC%8D%B8%EB%84%A4%EC%9D%BC.png)](https://play-tv.kakao.com/embed/player/cliplink/rvpp4ktwvxr7plriqmrbwnxf5@my?service=player_share)
+  -[![유동인구 카운트 영상](https://github.com/KyungJinWoo/project/blob/main/%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%EC%8D%B8%EB%84%A4%EC%9D%BC.png)](https://play-tv.kakao.com/embed/player/cliplink/rvpp4ktwvxr7plriqmrbwnxf5@my?service=player_share)
 
 
 ### 2. 엑스레이 사진에서 폐결절을 찾는 신경망
