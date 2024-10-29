@@ -21,7 +21,7 @@
 - **관련 주피터 노트북**
   - [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1s0tbqNEC_T_tUKzO0iqHHmOZIdOd-X2P?usp=sharing)
 - **시연 이미지** 
-  - [폐결절 검출 X-ray 사진](https://github.com/KyungJinWoo/project/blob/main/폐결절1.png,https://github.com/KyungJinWoo/project/blob/main/%ED%8F%90%EA%B2%B0%EC%A0%882.png)
+  - [폐결절 검출 X-ray 사진](https://github.com/KyungJinWoo/project/blob/main/폐결절1.png]https://github.com/KyungJinWoo/project/blob/main/%ED%8F%90%EA%B2%B0%EC%A0%882.png)
 
 ---
 
